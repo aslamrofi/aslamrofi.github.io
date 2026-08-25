@@ -1,0 +1,23 @@
+[
+  {
+    "title": "PacketPeek",
+    "description": "A lightweight browser-based PCAP viewer for quickly inspecting captured traffic without opening Wireshark.",
+    "tags": ["JavaScript", "Networking", "Security"],
+    "repo": "https://github.com/aslamrofi/packetpeek",
+    "demo": ""
+  },
+  {
+    "title": "FlagVault",
+    "description": "A self-hosted notebook for organizing CTF write-ups, tagging techniques, and tracking solved challenges over time.",
+    "tags": ["Node.js", "SQLite", "CTF Tooling"],
+    "repo": "https://github.com/aslamrofi/flagvault",
+    "demo": ""
+  },
+  {
+    "title": "Subdom Sweep",
+    "description": "A CLI tool that automates subdomain enumeration and flags likely-vulnerable endpoints for further recon.",
+    "tags": ["Python", "Recon", "CLI"],
+    "repo": "https://github.com/aslamrofi/subdom-sweep",
+    "demo": ""
+  }
+]

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aslam Rofi — Security Engineer & CTF Player</title>
+  <meta name="description" content="Portfolio of Aslam Rofi — cybersecurity enthusiast, developer, and CTF competitor.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="wrap">
+    <div class="nav-brand"><span class="prompt">guest@aslamrofi</span>:~$</div>
+    <ul class="nav-links">
+      <li><a href="#about">about</a></li>
+      <li><a href="#projects">projects</a></li>
+      <li><a href="#ctf">ctf</a></li>
+      <li><a href="#contact">contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow"><span class="dot"></span>available for opportunities</p>
+      <h1>Breaking things<br>to build <span class="accent">safer</span> ones.</h1>
+      <p class="lead">
+        I'm Aslam Rofi — a developer and cybersecurity enthusiast. I compete in
+        CTFs, dig into web and binary exploitation, and build tools and projects
+        along the way.
+      </p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="#ctf">view ctf log</a>
+        <a class="btn" href="#projects">see projects</a>
+      </div>
+    </div>
+
+    <div class="terminal" aria-hidden="true">
+      <div class="terminal-bar"><span></span><span></span><span></span></div>
+      <div class="terminal-body" id="terminal-body"></div>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <section class="section" id="about">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="section-num">01 · about</p>
+          <h2>Who I am</h2>
+        </div>
+      </div>
+
+      <div class="about-grid">
+        <div class="about-bio" id="about-bio">
+          <!-- populated by ProfileView -->
+        </div>
+        <div id="about-skills">
+          <!-- populated by ProfileView -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="projects">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="section-num">02 · projects</p>
+          <h2>Things I've built</h2>
+          <p class="section-sub">Tools, apps, and experiments — security-flavored and otherwise.</p>
+        </div>
+      </div>
+      <div class="project-grid" id="project-grid">
+        <!-- populated by ProjectView -->
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="ctf">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="section-num">03 · ctf log</p>
+          <h2>Capture the Flag</h2>
+          <p class="section-sub">Competitions I've taken part in. Add new ones anytime in <code>data/ctf.json</code>.</p>
+        </div>
+      </div>
+      <div class="ctf-grid" id="ctf-grid">
+        <!-- populated by CTFView -->
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer" id="contact">
+  <div class="wrap">
+    <div class="footer-inner">
+      <div>
+        <h2>Let's talk.</h2>
+        <p>Open to internships, CTF teams, and collaborations. Reach out below.</p>
+      </div>
+      <div class="footer-links">
+        <a href="mailto:you@example.com">email</a>
+        <a href="https://github.com/aslamrofi" target="_blank" rel="noopener">github</a>
+        <a href="https://linkedin.com/in/aslamrofi" target="_blank" rel="noopener">linkedin</a>
+        <a href="https://ctftime.org/user/000000" target="_blank" rel="noopener">ctftime</a>
+      </div>
+    </div>
+    <p class="footer-meta">© <span id="year"></span> Aslam Rofi · built with vanilla JS, MVC-style · hosted on GitHub Pages</p>
+  </div>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

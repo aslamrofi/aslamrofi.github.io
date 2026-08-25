@@ -1,0 +1,42 @@
+[
+  {
+    "name": "picoCTF 2024",
+    "date": "2024-03",
+    "team": "Solo",
+    "rank": "Top 15%",
+    "categories": ["Web", "Crypto", "Forensics"],
+    "writeup": "https://github.com/aslamrofi/ctf-writeups/tree/main/picoctf-2024"
+  },
+  {
+    "name": "HackTheBox CTF",
+    "date": "2024-05",
+    "team": "nullbyte",
+    "rank": "42nd",
+    "categories": ["Pwn", "Reversing"],
+    "writeup": ""
+  },
+  {
+    "name": "TSG CTF",
+    "date": "2024-08",
+    "team": "Solo",
+    "rank": "Participant",
+    "categories": ["Web", "Misc"],
+    "writeup": ""
+  },
+  {
+    "name": "DownUnderCTF",
+    "date": "2024-09",
+    "team": "nullbyte",
+    "rank": "Top 25%",
+    "categories": ["Crypto", "OSINT"],
+    "writeup": "https://github.com/aslamrofi/ctf-writeups/tree/main/duckctf-2024"
+  },
+  {
+    "name": "UMDCTF",
+    "date": "2025-02",
+    "team": "Solo",
+    "rank": "Top 30%",
+    "categories": ["Web", "Forensics"],
+    "writeup": ""
+  }
+]
