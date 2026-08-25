@@ -357,8 +357,8 @@ a { color: inherit; }
 }
 
 .ctf-logo-wrap {
-  width: 32px;
-  height: 32px;
+  width: 44px;
+  height: 44px;
   flex-shrink: 0;
 }
 
@@ -368,9 +368,9 @@ a { color: inherit; }
   height: 100%;
   object-fit: contain;
   border-radius: 6px;
-  background: var(--paper);
-  border: 1px solid var(--line);
-  padding: 3px;
+  background: transparent;
+  border: 1px solid transparent;
+  padding: 2px;
 }
 
 .ctf-logo-fallback {
