@@ -3,120 +3,140 @@
     "name": "BingoCTF 2025",
     "date": "2025-11-29",
     "leaderboard": "15/30",
-    "description": "My first CTF competition I entered with Izz, Dhiyauddin, Ismail, Noor, Amirul. Hosted by Asia Pacific University."
+    "description": "My first CTF competition I entered with Izz, Dhiyauddin, Ismail, Noor, Amirul. Hosted by Asia Pacific University.",
+    "logo": "logoctf/BINGOlogo.png"
   },
   {
     "name": "HTB CTF Kuala Lumpur Open 2025",
     "date": "2025-12-20",
     "leaderboard": "1/30",
-    "description": "Won first and got myself 500 cubes and VIP access to HTB Academy."
+    "description": "Won first and got myself 500 cubes and VIP access to HTB Academy.",
+    "logo": "logoctf/HTBKLlogo.png"
   },
   {
     "name": "RE:UN10N CTF 2025",
     "date": "2025-12-27",
     "leaderboard": "40/120",
-    "description": "With Dhiyauddin and Ismail, I have finished this 24 hour challenge."
+    "description": "With Dhiyauddin and Ismail, I have finished this 24 hour challenge.",
+    "logo": "logoctf/REUNIONlogo.png"
   },
   {
     "name": "Hack The Box MeetUp Malaysia UPM 2026",
     "date": "2026-01-10",
     "leaderboard": "8/40",
-    "description": "With my fellow friends, I have completed the CTF competition, also met a few people who I recognize from similar competitions."
+    "description": "With my fellow friends, I have completed the CTF competition, also met a few people who I recognize from similar competitions.",
+    "logo": "logoctf/HTBMALAYSIAlogo.png"
   },
   {
     "name": "Eschaton CTF 2026",
     "date": "2026-01-31",
     "leaderboard": "135/320",
-    "description": "Hosted by Muthoot Institute of Technology and Science, India. Learned a whole lot from this one."
+    "description": "Hosted by Muthoot Institute of Technology and Science, India. Learned a whole lot from this one.",
+    "logo": "logoctf/ESCHATONlogo.png"
   },
   {
     "name": "Wireless Pentest 0day CTF 2026",
     "date": "2026-02-07",
     "leaderboard": "4/15",
-    "description": "Props to Shafiq Roslan for carrying our team. One of the few CTFs where I have completed all challenges."
+    "description": "Props to Shafiq Roslan for carrying our team. One of the few CTFs where I have completed all challenges.",
+    "logo": "logoctf/0DAYPENTESTlogo.png"
   },
   {
     "name": "0xFUNCTF 2026",
     "date": "2026-02-12",
     "leaderboard": "226/2300",
-    "description": "Intense 48 hour marathon. Probably the best CTF that I have ever played in."
+    "description": "Intense 48 hour marathon. Probably the best CTF that I have ever played in.",
+    "logo": "logoctf/0XFUNlogo.png"
   },
   {
     "name": "Crackmes.one Rev Eng CTF 2026",
     "date": "2026-02-14",
     "leaderboard": "177/1313",
-    "description": "This one focuses on reverse engineering and I heavily utilized Ghidra."
+    "description": "This one focuses on reverse engineering and I heavily utilized Ghidra.",
+    "logo": "logoctf/CRACKMESONElogo.png"
   },
   {
     "name": "Batman Kitchen CTF 2026",
     "date": "2026-02-20",
     "leaderboard": "78/479",
-    "description": "A whole variety of challenges, hosted by University of Washington."
+    "description": "A whole variety of challenges, hosted by University of Washington.",
+    "logo": "logoctf/BATMANlogo.png"
   },
   {
     "name": "UniVsThreats (3rd Edition)",
     "date": "2026-02-27",
     "leaderboard": "125/500",
-    "description": "Having the space theme, this one opened my views on more CTFs."
+    "description": "Having the space theme, this one opened my views on more CTFs.",
+    "logo": "logoctf/UNIVSTHREATSlogo.png"
   },
   {
     "name": "EHAX CTF 2026",
     "date": "2026-02-28",
     "leaderboard": "311/887",
-    "description": "Another high competitive field CTF. A lot more flags captured."
+    "description": "Another high competitive field CTF. A lot more flags captured.",
+    "logo": "logoctf/EHAXlogo.png"
   },
   {
     "name": "CRYPTONITE 2026",
     "date": "2026-03-06",
     "leaderboard": "52/361",
-    "description": "Heavily focused on Web Exploitation and Steganography."
+    "description": "Heavily focused on Web Exploitation and Steganography.",
+    "logo": "logoctf/CRYPTONITElogo.png"
   },
   {
     "name": "CodeVinci CTF 2026",
     "date": "2026-03-07",
     "leaderboard": "61/159",
-    "description": "Just another CTF, props to the CodeVinci team for server and ticket handling."
+    "description": "Just another CTF, props to the CodeVinci team for server and ticket handling.",
+    "logo": "logoctf/CODEVINCIlogo.png"
   },
   {
     "name": "Dice CTF 2026",
     "date": "2026-03-08",
     "leaderboard": "282/493",
-    "description": "I faced the hardest teams in the world. This one is rated 100 on CTFtime, making it the hardest challenge ever."
+    "description": "I faced the hardest teams in the world. This one is rated 100 on CTFtime, making it the hardest challenge ever.",
+    "logo": "logoctf/DICElogo.png"
   },
   {
     "name": "Pro Labs Dante HTB Academy",
     "date": "2026-03-10",
     "leaderboard": "Offline Pro Labs",
-    "description": "I completed a real simulated hacking of a company named Dante. From one access point, we used multiple exploits to compromise the other machines and jump from one to another. By far the hardest challenge I've taken — capturing flags meant traversing the whole network, not tackling one challenge at a time."
+    "description": "I completed a real simulated hacking of a company named Dante. From one access point, we used multiple exploits to compromise the other machines and jump from one to another. By far the hardest challenge I've taken \u2014 capturing flags meant traversing the whole network, not tackling one challenge at a time.",
+    "logo": "logoctf/DANTElogo.png"
   },
   {
     "name": "PsychCTF 2026",
     "date": "2026-03-14",
     "leaderboard": "96/318",
-    "description": "Another CTF — I tackled OSINT mostly for this one, it was fun."
+    "description": "Another CTF \u2014 I tackled OSINT mostly for this one, it was fun.",
+    "logo": "logoctf/PSYCHlogo.png"
   },
   {
     "name": "RITSEC CTF 2026",
     "date": "2026-04-04",
     "leaderboard": "256/660",
-    "description": "Pirate themed — we got doubloons instead of points. Another fun one."
+    "description": "Pirate themed \u2014 we got doubloons instead of points. Another fun one.",
+    "logo": "logoctf/RITSEClogo.png"
   },
   {
     "name": "DawgCTF 2026",
     "date": "2026-04-11",
     "leaderboard": "127/870",
-    "description": "Another smooth CTF event, looking forward for more."
+    "description": "Another smooth CTF event, looking forward for more.",
+    "logo": "logoctf/DAWGlogo.png"
   },
   {
     "name": "Liga CTF 2026",
     "date": "2026-04-22",
     "leaderboard": "13/260",
-    "description": "Another one I tackled with Dhiyauddin and Ariff. 6 weeks of challenges. Once I was done with this, I took a long break from CTFs."
+    "description": "Another one I tackled with Dhiyauddin and Ariff. 6 weeks of challenges. Once I was done with this, I took a long break from CTFs.",
+    "logo": "logoctf/LIGAlogo.png"
   },
   {
     "name": "UMCS CTF 2026",
     "date": "2026-04-25",
     "leaderboard": "45/190",
-    "description": "With Dhiyauddin, Ariff, and Iqmal we solved a lot of challenges for this one. Shout out to Universiti Malaya."
+    "description": "With Dhiyauddin, Ariff, and Iqmal we solved a lot of challenges for this one. Shout out to Universiti Malaya.",
+    "logo": "logoctf/UMCSlogo.png"
   }
 ]

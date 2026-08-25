@@ -349,8 +349,46 @@ a { color: inherit; }
 }
 .ctf-card:hover { border-color: var(--signal); transform: translateY(-2px); }
 
+.ctf-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.ctf-logo-wrap {
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.ctf-logo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 6px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: 3px;
+}
+
+.ctf-logo-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+  background: var(--signal-dim);
+  color: var(--signal);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  border: 1px solid var(--line);
+}
+
 .ctf-card .rank {
-  align-self: flex-start;
   font-family: var(--font-mono);
   font-size: 10.5px;
   padding: 3px 8px;
