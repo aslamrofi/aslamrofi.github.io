@@ -1,5 +1,5 @@
-import { ProjectModel } from "../../../../../Users/HP/OneDrive/Desktop/aslamrofi.github.io/aslamrofi.github.io/js/models/ProjectModel.js";
-import { ProjectView } from "../../../../../Users/HP/OneDrive/Desktop/aslamrofi.github.io/aslamrofi.github.io/js/views/ProjectView.js";
+import { ProjectModel } from "../models/ProjectModel.js";
+import { ProjectView } from "../views/ProjectView.js";
 
 export const ProjectController = {
   async init() {

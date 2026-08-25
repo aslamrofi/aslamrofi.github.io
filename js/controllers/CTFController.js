@@ -1,5 +1,5 @@
-import { CTFModel } from "../../../../../Users/HP/OneDrive/Desktop/aslamrofi.github.io/aslamrofi.github.io/js/models/CTFModel.js";
-import { CTFView } from "../../../../../Users/HP/OneDrive/Desktop/aslamrofi.github.io/aslamrofi.github.io/js/views/CTFView.js";
+import { CTFModel } from "../models/CTFModel.js";
+import { CTFView } from "../views/CTFView.js";
 
 export const CTFController = {
   async init() {
