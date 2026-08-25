@@ -1,23 +1,62 @@
 [
   {
-    "title": "PacketPeek",
-    "description": "A lightweight browser-based PCAP viewer for quickly inspecting captured traffic without opening Wireshark.",
-    "tags": ["JavaScript", "Networking", "Security"],
-    "repo": "https://github.com/aslamrofi/packetpeek",
+    "title": "MyEMAS",
+    "type": "APK",
+    "description": "An elderly-friendly app powered by AI, featuring a chatbot, disease detection, nearest-clinic lookup, and even video games.",
+    "tags": ["Android", "AI", "Healthcare"],
+    "logo": "logoproj/MYEMASlogo.png",
+    "picture": "picproj/MYEMASpic.jpg",
+    "repo": "",
     "demo": ""
   },
   {
-    "title": "FlagVault",
-    "description": "A self-hosted notebook for organizing CTF write-ups, tagging techniques, and tracking solved challenges over time.",
-    "tags": ["Node.js", "SQLite", "CTF Tooling"],
-    "repo": "https://github.com/aslamrofi/flagvault",
+    "title": "Snifferofy WiFi Hacking",
+    "type": "Collection of Open-source Linux Programs",
+    "description": "Easily capture handshakes to crack later in Hashcat, block APs even without a password, run monitor mode, inject packets, and carry out MITM / Evil-Twin attacks — all within a safe, permissioned environment.",
+    "tags": ["Linux", "Wireless Security", "Networking"],
+    "logo": "logoproj/SNIFFEROFYlogo.png",
+    "picture": "picproj/SNIFFEROFYpic.jpg",
+    "repo": "",
     "demo": ""
   },
   {
-    "title": "Subdom Sweep",
-    "description": "A CLI tool that automates subdomain enumeration and flags likely-vulnerable endpoints for further recon.",
-    "tags": ["Python", "Recon", "CLI"],
-    "repo": "https://github.com/aslamrofi/subdom-sweep",
+    "title": "RYZEN Smart Lock",
+    "type": "Arduino + APK",
+    "description": "An Arduino board detects NFC cards and relays the data to a servo motor and Bluetooth dongle. A companion app captures the signal and sends it to Firebase.",
+    "tags": ["Arduino", "IoT", "Firebase"],
+    "logo": "logoproj/RYZENlogo.png",
+    "picture": "picproj/RYZENpic.jpg",
+    "repo": "",
+    "demo": ""
+  },
+  {
+    "title": "CRUD CTF",
+    "type": "Website",
+    "description": "A CTF platform that stores user data in an Oracle Database and integrates the OpenAI API to offer suggestions for solving challenges.",
+    "tags": ["Web", "Oracle DB", "OpenAI API"],
+    "logo": "logoproj/CRUDCTFlogo.png",
+    "picture": "picproj/CRUDCTFpic.jpg",
+    "repo": "",
+    "demo": ""
+  },
+  {
+    "title": "KawanBorong",
+    "type": "Website + APK",
+    "description": "A dashboard for suppliers and restaurants to manage inventory in line with the UNICEF 17 SDGs, built as both a website and an app for convenience.",
+    "tags": ["Web", "Android", "SDG"],
+    "logo": "logoproj/KAWANBORONGlogo.png",
+    "picture": "picproj/KAWANBORONGpic.jpg",
+    "repo": "",
+    "demo": ""
+  },
+  {
+    "title": "XOX Online Project",
+    "type": "JavaFX",
+    "description": "My very first advanced-programming project — a tic-tac-toe game you can play with another person connected to the same WiFi network.",
+    "tags": ["JavaFX", "Networking", "Game"],
+    "logo": "logoproj/XOXlogo.png",
+    "picture": "picproj/XOXpic.jpg",
+    "repo": "",
     "demo": ""
   }
 ]
