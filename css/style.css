@@ -4,16 +4,17 @@
    ========================================================= */
 :root {
   /* Color */
-  --ink: #0D1321;          /* primary text / dark surfaces */
-  --ink-soft: #454F63;     /* secondary text on light */
-  --paper: #F7F8FA;        /* page background */
-  --surface: #FFFFFF;      /* card background */
-  --line: #DFE3EA;         /* hairline borders */
-  --signal: #1F9E93;       /* teal — primary accent (network / terminal) */
-  --signal-dim: #E4F4F2;   /* teal tint for chips/backgrounds */
-  --flag: #E85D3D;         /* warm coral — used sparingly for rank/alert */
-  --flag-dim: #FCEBE5;
-  --code-muted: #6C7A94;   /* muted slate for mono/meta text */
+  --ink: #E7EAF2;          /* primary text on dark surfaces */
+  --ink-soft: #97A1B8;     /* secondary text on dark */
+  --paper: #0B0F1A;        /* page background */
+  --surface: #131928;      /* card background */
+  --line: #232C40;         /* hairline borders */
+  --signal: #2BC7BB;       /* teal — primary accent (network / terminal) */
+  --signal-dim: #123330;   /* teal tint for chips/backgrounds */
+  --flag: #FF7A57;         /* warm coral — used sparingly for rank/alert */
+  --flag-dim: #2E160F;
+  --code-muted: #7C87A1;   /* muted slate for mono/meta text */
+  --terminal: #05070D;     /* dedicated near-black for the hero terminal card */
 
   /* Type */
   --font-display: "Space Grotesk", "Segoe UI", sans-serif;
@@ -68,7 +69,7 @@ a { color: inherit; }
   position: sticky;
   top: 0;
   z-index: 20;
-  background: rgba(247, 248, 250, 0.85);
+  background: rgba(11, 15, 26, 0.85);
   backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--line);
 }
@@ -181,12 +182,12 @@ a { color: inherit; }
   display: inline-block;
 }
 .btn-primary {
-  background: var(--ink);
-  color: var(--surface);
-  border-color: var(--ink);
+  background: var(--signal);
+  color: var(--paper);
+  border-color: var(--signal);
 }
 .btn:hover { transform: translateY(-1px); }
-.btn-primary:hover { background: #1a2338; }
+.btn-primary:hover { background: #24ABA1; }
 .btn:not(.btn-primary):hover { border-color: var(--signal); color: var(--signal); }
 .btn:focus-visible, a:focus-visible, button:focus-visible {
   outline: 2px solid var(--signal);
@@ -195,10 +196,10 @@ a { color: inherit; }
 
 /* Terminal window */
 .terminal {
-  background: var(--ink);
+  background: var(--terminal);
   border-radius: var(--radius);
   overflow: hidden;
-  box-shadow: 0 20px 50px -20px rgba(13, 19, 33, 0.45);
+  box-shadow: 0 20px 50px -20px rgba(0, 0, 0, 0.6);
 }
 
 .terminal-bar {
