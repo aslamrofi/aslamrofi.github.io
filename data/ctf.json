@@ -100,7 +100,7 @@
   {
     "name": "Pro Labs Dante HTB Academy",
     "date": "2026-03-10",
-    "leaderboard": "Offline Pro Labs",
+    "leaderboard": "Pro Labs",
     "description": "I completed a real simulated hacking of a company named Dante. From one access point, we used multiple exploits to compromise the other machines and jump from one to another. By far the hardest challenge I've taken \u2014 capturing flags meant traversing the whole network, not tackling one challenge at a time.",
     "logo": "logoctf/DANTElogo.png"
   },
