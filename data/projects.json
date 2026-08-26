@@ -11,7 +11,7 @@
   },
   {
     "title": "Snifferofy WiFi Hacking",
-    "type": "Collection of Open-source Linux Programs",
+    "type": "Open-source Linux Programs",
     "description": "Easily capture handshakes to crack later in Hashcat, block APs even without a password, run monitor mode, inject packets, and carry out MITM / Evil-Twin attacks — all within a safe, permissioned environment.",
     "tags": ["Linux", "Wireless Security", "Networking"],
     "logo": "logoproj/SNIFFEROFYlogo.png",

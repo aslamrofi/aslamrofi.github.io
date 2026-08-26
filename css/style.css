@@ -278,7 +278,7 @@ a { color: inherit; }
    ========================================================= */
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
 }
 
@@ -296,7 +296,7 @@ a { color: inherit; }
 
 .project-media {
   margin: -22px -22px 0;
-  height: 150px;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   border-radius: var(--radius) var(--radius) 0 0;
   background: var(--terminal);
@@ -306,7 +306,7 @@ a { color: inherit; }
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .project-card-head {
